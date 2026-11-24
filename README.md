@@ -3,4 +3,4 @@ This is my first repository.
 It should include 44 programs of c language covering basics
 of operators, if-else, looping,  switch case...etc.
 Each c file will be in a seprate folder.
-Output screenshots will be added as per requirement.
+Output screenshots are present in respective folder.
